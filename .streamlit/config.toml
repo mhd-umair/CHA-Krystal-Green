@@ -1,0 +1,17 @@
+[server]
+headless = true
+port = 8501
+runOnSave = true
+enableStaticServing = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#0F4C81"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F5F9"
+textColor = "#1F2937"
+font = "sans serif"
+baseFontSize = 16
